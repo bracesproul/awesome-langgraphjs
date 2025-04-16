@@ -20,6 +20,7 @@ A collection of open source projects and applications built using LangGraph.js. 
 - [LangGraph.js Computer Use Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-cua) - A prebuilt agent package for using computer use agents (CUA) with LangGraph.js.
 - [LangGraph.js Supervisor Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-supervisor) - A prebuilt agent package for implementing supervisor style agents with LangGraph.js
 - [LangGraph.js Swarm Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-swarm) - A prebuilt agent package for implementing swarm style agents with LangGraph.js
+- [LLManager](https://github.com/langchain-ai/llmanager) - A LangGraph workflow for managing approval requests. It uses reflection to improve and learn over time, along with dynamic prompt composition to handle a wide variety of approval requests.
 
 # YouTube Videos
 
@@ -31,6 +32,7 @@ A collection of open source projects and applications built using LangGraph.js. 
 - [SiteRAG - Open Source Chrome Extension for RAG](https://youtu.be/Af0Dz9bxcWY)
 - [Open Source Agent Inbox for LangGraph](https://youtu.be/gF341XMN8cY)
 - [Open Source Social Media Agent](https://youtu.be/TmTl5FMgkCQ)
+- [LLManager - Automate Approvals Through a Memory Agent](https://youtu.be/uqRK_aJBR2w)
 
 # Contributing
 
