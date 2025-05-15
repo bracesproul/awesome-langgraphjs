@@ -6,6 +6,7 @@ A collection of open source projects and applications built using LangGraph.js. 
 
 ## All
 
+- [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform) - An open-source, no-code agent building platform. Connect to MCP tools, internal data sources, and other agents.
 - [Open Canvas](https://github.com/langchain-ai/open-canvas) - A production-ready chat application for generating and editing text based artifacts.
 - [Social Media Agent](https://github.com/langchain-ai/social-media-agent) - A collection of graphs for automating social media content curation and posting on Twitter and LinkedIn.
 - [Agent Chat UI](https://github.com/langchain-ai/agent-chat-ui) - A chat interface for interacting with _any_ LangGraph agent.
