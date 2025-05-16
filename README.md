@@ -2,9 +2,14 @@
 
 A collection of open source projects and applications built using LangGraph.js. Also, a list of YouTube videos and tutorials covering LangGraph.js.
 
+> [!TIP]
+> Have your own open source project/video and want it added to this list? See the [Contributing](#contributing) section below.
+
 # Open Source Projects
 
-## All
+## By the LangChain Team
+
+The projects listed below are built & maintained by the LangChain team.
 
 - [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform) - An open-source, no-code agent building platform. Connect to MCP tools, internal data sources, and other agents.
 - [Open Canvas](https://github.com/langchain-ai/open-canvas) - A production-ready chat application for generating and editing text based artifacts.
@@ -23,7 +28,18 @@ A collection of open source projects and applications built using LangGraph.js. 
 - [LangGraph.js Swarm Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-swarm) - A prebuilt agent package for implementing swarm style agents with LangGraph.js
 - [LLManager](https://github.com/langchain-ai/llmanager) - A LangGraph workflow for managing approval requests. It uses reflection to improve and learn over time, along with dynamic prompt composition to handle a wide variety of approval requests.
 
+## By the LangGraph.js Community
+
+The projects listed below are built by the LangGraph.js community.
+
+> [!TIP]
+> We're looking for more projects! If you have a project that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
+
 # YouTube Videos
+
+## By the LangChain Team
+
+The videos listed below are created by the LangChain team.
 
 - [Build a Generative Ul App in LangGraph](https://youtu.be/sCqN01R8nIQ)
 - [Introducing `npx create-agent-chat-app`](https://youtu.be/DJXYUxoWkOU)
@@ -35,6 +51,19 @@ A collection of open source projects and applications built using LangGraph.js. 
 - [Open Source Social Media Agent](https://youtu.be/TmTl5FMgkCQ)
 - [LLManager - Automate Approvals Through a Memory Agent](https://youtu.be/uqRK_aJBR2w)
 
+## By the LangGraph.js Community
+
+The videos listed below are created by the LangGraph.js community.
+
+> [!TIP]
+> We're looking for more videos! If you have a video that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
+
 # Contributing
 
 If you have an open source project which is built using LangGraph.js or LangChain.js, please open a pull request to add it to this list!
+
+Please open a pull request adding your project/video under the `By the LangGraph.js Community` section. Ensure it is formatted like the other projects/videos in the list:
+
+```
+- [Project/Video Name](project/video URL) - A short, 1-2 sentence description of the project/video.
+```
