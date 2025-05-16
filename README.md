@@ -2,7 +2,7 @@
 
 A collection of open source projects and applications built using LangGraph.js. Also, a list of YouTube videos and tutorials covering LangGraph.js.
 
-> [!TIP]
+> [!NOTE]
 > Have your own open source project/video and want it added to this list? See the [Contributing](#contributing) section below.
 
 # Open Source Projects
@@ -32,7 +32,7 @@ The projects listed below are built & maintained by the LangChain team.
 
 The projects listed below are built by the LangGraph.js community.
 
-> [!TIP]
+> [!IMPORTANT]
 > We're looking for more projects! If you have a project that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
 
 # YouTube Videos
@@ -55,7 +55,7 @@ The videos listed below are created by the LangChain team.
 
 The videos listed below are created by the LangGraph.js community.
 
-> [!TIP]
+> [!IMPORTANT]
 > We're looking for more videos! If you have a video that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
 
 # Contributing
