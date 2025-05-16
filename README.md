@@ -32,6 +32,8 @@ The projects listed below are built & maintained by the LangChain team.
 
 The projects listed below are built by the LangGraph.js community.
 
+- [Langgraph workflows Examples](https://github.com/mustafaskyer/langgraph-workflows) - A set of workflows for learning langgraph Js
+
 > [!IMPORTANT]
 > We're looking for more projects! If you have a project that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
 
