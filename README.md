@@ -32,6 +32,8 @@ The projects listed below are built & maintained by the LangChain team.
 
 The projects listed below are built by the LangGraph.js community.
 
+- [Build a Blockchain AI Agent with Hedera + LangGraph (Workshop)](https://github.com/hedera-dev/hedera-ai-agent-workshop-langgraph) - Covers the following: Basic setup, tool calling, emulating an agent, adding chat, agent kit, MCP, human-in-the-loop
+
 > [!IMPORTANT]
 > We're looking for more projects! If you have a project that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
 
@@ -54,6 +56,8 @@ The videos listed below are created by the LangChain team.
 ## By the LangGraph.js Community
 
 The videos listed below are created by the LangGraph.js community.
+
+- [Build a Blockchain AI Agent with LangGraph + Hedera, from scratch!](https://www.youtube.com/watch?v=1jerPeBZXo4&list=PLjyCRcs63y83jlubHbD54BSWbdFvENoo-&index=1) - Covers the following: Basic setup, tool calling, emulating an agent, adding chat, agent kit, MCP, human-in-the-loop
 
 > [!IMPORTANT]
 > We're looking for more videos! If you have a video that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
