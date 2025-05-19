@@ -32,13 +32,12 @@ The projects listed below are built & maintained by the LangChain team.
 
 The projects listed below are built by the LangGraph.js community.
 
-- [Langgraph workflows Examples](https://github.com/mustafaskyer/langgraph-workflows) - A set of workflows for learning langgraph Js
-
 > [!IMPORTANT]
 > We're looking for more projects! If you have a project that you think would be helpful to the LangGraph.js community, please open a pull request to add it to this list!
 
 - [Build a Blockchain AI Agent with Hedera + LangGraph (Workshop)](https://github.com/hedera-dev/hedera-ai-agent-workshop-langgraph) - Covers the following: Basic setup, tool calling, emulating an agent, adding chat, agent kit, MCP, human-in-the-loop
 - [Order Entry Voice Agent ](https://github.com/ConceptCodes/ai-order-entry) - A conversational AI voice agent designed for fast-food order entry.
+- [Langgraph workflows Examples](https://github.com/mustafaskyer/langgraph-workflows) - A set of workflows for learning langgraph Js
 
 # YouTube Videos
 
