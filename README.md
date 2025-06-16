@@ -27,6 +27,7 @@ The projects listed below are built & maintained by the LangChain team.
 - [LangGraph.js Supervisor Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-supervisor) - A prebuilt agent package for implementing supervisor style agents with LangGraph.js
 - [LangGraph.js Swarm Agent](https://github.com/langchain-ai/langgraphjs/tree/main/libs/langgraph-swarm) - A prebuilt agent package for implementing swarm style agents with LangGraph.js
 - [LLManager](https://github.com/langchain-ai/llmanager) - A LangGraph workflow for managing approval requests. It uses reflection to improve and learn over time, along with dynamic prompt composition to handle a wide variety of approval requests.
+- [LangChain Next.js Template](https://github.com/langchain-ai/langchain-nextjs-template) - A Next.js template for getting started building LangChain/LangGraph web apps with Next.js.
 
 ## By the LangGraph.js Community
 
